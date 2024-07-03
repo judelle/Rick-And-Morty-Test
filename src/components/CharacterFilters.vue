@@ -16,7 +16,6 @@
           <option value="">Все</option>
           <option value="human">Человек</option>
           <option value="alien">Инопланетянин</option>
-          <!-- Добавь другие расы по необходимости -->
         </select>
       </label>
     </div>

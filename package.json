@@ -1,9 +1,12 @@
 {
+  "homepage": "https://judelle.github.io/Rick-And-Morty-Test",
   "name": "rick-and-morty-search",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },

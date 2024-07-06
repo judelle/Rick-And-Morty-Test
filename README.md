@@ -1,6 +1,6 @@
 # rick-and-morty-search
 
-## Demo: stellular-sherbet-739cce.netlify.app
+## Demo: [visit site](stellular-sherbet-739cce.netlify.app).
 
 
 ## Project setup

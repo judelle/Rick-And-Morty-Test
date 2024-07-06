@@ -1,8 +1,5 @@
 # rick-and-morty-search
 
-## Demo: [visit site](stellular-sherbet-739cce.netlify.app).
-
-
 ## Project setup
 ```
 npm install
